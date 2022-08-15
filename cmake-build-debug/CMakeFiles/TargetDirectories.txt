@@ -1,0 +1,3 @@
+/opt/02-UDF/03-Estrutura_Dados_II/01-exercicio/cmake-build-debug/CMakeFiles/01_exercicio.dir
+/opt/02-UDF/03-Estrutura_Dados_II/01-exercicio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/opt/02-UDF/03-Estrutura_Dados_II/01-exercicio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/opt/IDE/01-JetBrains/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/IDE/01-JetBrains/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /opt/02-UDF/03-Estrutura_Dados_II/01-exercicio -B /opt/02-UDF/03-Estrutura_Dados_II/01-exercicio/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /opt/02-UDF/03-Estrutura_Dados_II/01-exercicio/cmake-build-debug
